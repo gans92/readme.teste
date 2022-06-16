@@ -24,7 +24,7 @@ A proposta foi de criar uma landing page sobre uma empresa fictícia. Escolhemos
      <img src="/img/desk05.png" width="400px" height="180px">
 
 
-## Mobile - a
+## Mobile
 
 <p align="center">
      <img src="./img/mobile01.png" width="200px" height="380px">
@@ -59,9 +59,10 @@ Todos os links externos são funcionais e abrem em uma página em branco.
 
 ### Extra: 
 
-
-Adicionado tema escuro acionado por botão no header.
-<img src="./img/gifdarkmode.gif" width="200px" height="380px">
+Adicionado tema escuro acionado por botão.
+<br>
+<br>
+<img src="./img/ezgif-5-fe287566ef.gif" width="200px" height="380px">
 
 <h1>
     <br>
