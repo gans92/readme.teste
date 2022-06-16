@@ -63,22 +63,6 @@ Todos os links externos são funcionais e abrem em uma página em branco.
 Adicionado tema escuro acionado por botão no header.
 ![image](https://user-images.githubusercontent.com/98292838/163856007-b6748258-d359-4fa0-af5e-bea4a03e9049.png)
 
-
-
-## 🛠️ Construído com
-
-<p>
-<img witdh="40px" height="40px" src="https://user-images.githubusercontent.com/98292838/163856484-18282144-9061-42ee-9691-66c6454b362f.png">
-<!-- git -->
-<img witdh="40px" height="40px" src="https://user-images.githubusercontent.com/98292838/163856370-844eb1b7-11f6-48cd-abec-21c1da4b38b4.png">
-<!-- html -->
-<img witdh="40px" height="40px" src="https://user-images.githubusercontent.com/98292838/163856535-00dbc8fe-e415-4fa3-8d81-50975fb8839c.png">
-<!-- css -->
-<img witdh="40px" height="40px" src="https://user-images.githubusercontent.com/98292838/163856432-c20873d2-9b31-412e-92e9-a1f6c609b40c.png">
-<!-- javascript -->
-</p>
-
-
 <h1>
     <br>
     <p style="color: #D30404; font-weight: bold;">🔗 Link do projeto no Surge</p>
@@ -96,11 +80,42 @@ https://trello.com/b/JnhQ4bMz/landing-page
 
 <br>
 
+## 🛠️ Construído com
+
+<p>
+<img witdh="40px" height="40px" src="https://user-images.githubusercontent.com/98292838/163856484-18282144-9061-42ee-9691-66c6454b362f.png">
+<!-- git -->
+<img witdh="40px" height="40px" src="https://user-images.githubusercontent.com/98292838/163856370-844eb1b7-11f6-48cd-abec-21c1da4b38b4.png">
+<!-- html -->
+<img witdh="40px" height="40px" src="https://user-images.githubusercontent.com/98292838/163856535-00dbc8fe-e415-4fa3-8d81-50975fb8839c.png">
+<!-- css -->
+<img witdh="40px" height="40px" src="https://user-images.githubusercontent.com/98292838/163856432-c20873d2-9b31-412e-92e9-a1f6c609b40c.png">
+<!-- javascript -->
+</p>
+
+
 <h1>
     <br>
     <p style="color: #D30404; font-weight: bold;">📁 Arquitetura</p>
 </h1>
 
+```
+- 📁 F4Bank
+ |- 📁 css
+ |  - 📑 arquivos css
+ |  
+ |- 📁 img
+ |  - 📑 imagens utilizadas
+ |  - 📁 social
+ |      - 📑 mídias sociais
+ |      
+ |- 📁 js
+ |  - 📑 script.js
+ |
+ |- 📑 index.html
+ |- 📑 login.html
+ |- 📑 README.md
+```
 <h1>
     <br>
     <p style="color: #D30404; font-weight: bold;">👨‍💻 Participantes</p>
