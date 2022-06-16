@@ -61,7 +61,7 @@ Todos os links externos são funcionais e abrem em uma página em branco.
 
 
 Adicionado tema escuro acionado por botão no header.
-![image](https://user-images.githubusercontent.com/98292838/163856007-b6748258-d359-4fa0-af5e-bea4a03e9049.png)
+<img src="./img/gifdarkmode.gif" width="200px" height="380px">
 
 <h1>
     <br>
