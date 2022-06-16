@@ -8,26 +8,29 @@
 
 A proposta foi de criar uma landing page sobre uma empresa fictícia. Escolhemos a F4bank que era um grande banco público brasileiro para competir com as startups que tem surgido, como Nubank, Banco Inter e Banco Neon, reforçando a segurança de um banco tradicional com décadas de história no país. 
  
+<h1>
+    <br>
+    <p style="color: #D30404; font-weight: bold;">🎨 Layout</p>
+</h1>
+
 ## Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-     <img src="./img/desk01.png" width="400px">
-     <img src="./img/desk02.png" width="400px">
-</p>
+     <img src="./img/desk01.png" width="400px" height="180px">
+     <img src="./img/desk02.png" width="400px" height="180px">
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-     <img src="./img/desk03.png" width="400px">
-     <img src="/img/desk04.png" width="400px">
-</p>
-    <img src="/img/desk05.png" width="400px">
+     <img src="./img/desk03.png" width="400px" height="180px">
+     <img src="/img/desk04.png" width="400px" height="180px">
+     <img src="/img/desk05.png" width="400px" height="180px">
 
 
 ## Mobile
 
 <p align="center">
-     <img src="./images/mobile01.png"  width="200px">
-     <img src="./images/mobile02.png" width="200px">
-     <img src="./images/mobile03.png" width="200px">
-     <img src="./images/mobile04.png" width="200px">
+     <img src="./img/mobile01.png" width="200px" height="380px">
+     <img src="./img/mobile02.png" width="200px" height="380px">
+     <img src="./img/mobile03.png" width="200px" height="380px">
+     <img src="./img/mobile04.png" width="200px" height="380px">
 </p>
 </p>
 
@@ -46,7 +49,6 @@ No mobile escondemos o menu e acionamos um menu vertical através de um botão t
 
 Dividimos a Main nas seguintes seções: Home, sobre nós, produtos, seguro de vida, seguro de carro e FAQ.
 Em cada tipo de seguro, trouxemos uma breve descrição e um formulário para solicitação de orçamento.
-![image](https://user-images.githubusercontent.com/98292838/163855326-3315e62f-cd3b-4dbf-ad28-965f54449a89.png)
 
 ### Footer:
 
@@ -99,13 +101,16 @@ https://trello.com/b/JnhQ4bMz/landing-page
     <p style="color: #D30404; font-weight: bold;">📁 Arquitetura</p>
 </h1>
 
-
-_Qualquer dúvida ou sugestão, chama no contatinho!_
+<h1>
+    <br>
+    <p style="color: #D30404; font-weight: bold;">👨‍💻 Participantes</p>
+</h1>
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/elisabetealves"><img style="border-radius: 50%;" src="https://unavatar.now.sh/github/elisabetealves" width="100px;" alt=""/><br /><sub><b>Elisabete Alves</b></sub></a><br /><a target="_blank" href="https://www.linkedin.com/mwlite/in/elisabete-alves-675637135">LinkedIn</a> </td>    
-    <td align="center"><a href="https://github.com/CarlosToledoMartins"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/62177926?v=4" width="100px;" alt=""/><br /><sub><b>Carlos Augusto</b></sub></a><br /><a target="_blank" href="https://www.linkedin.com/in/carlos-augusto-toledo-martins-5000b5a6/">LinkedIn</a> </td>    
+    <td align="center"><a href="https://github.com/gans92"><img style="border-radius: 50%;" src="https://unavatar.io/github/gans92" width="100px;" alt=""/><br /><sub><b>Gabriel Alisson</b></sub></a><br /></td>    
+    <td align="center"><a href="https://github.com/SantiagoOliveira22"><img style="border-radius: 50%;" src="https://unavatar.io/github/SantiagoOliveira22" width="100px;" alt=""/><br /><sub><b>Santiago Oliveira</b></sub></a><br /></td> 
+      <td align="center"><a href="https://github.com/ju-marques"><img style="border-radius: 50%;" src="https://unavatar.io/github/ju-marques" width="100px;" alt=""/><br /><sub><b>Juliana Marques</b></sub></a><br /></td> 
   </tr>
   
 </table>
