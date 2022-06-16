@@ -24,7 +24,7 @@ A proposta foi de criar uma landing page sobre uma empresa fictícia. Escolhemos
      <img src="/img/desk05.png" width="400px" height="180px">
 
 
-## Mobile
+## Mobile - a
 
 <p align="center">
      <img src="./img/mobile01.png" width="200px" height="380px">
