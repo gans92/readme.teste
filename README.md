@@ -37,22 +37,13 @@ A proposta foi de criar uma landing page sobre uma empresa fictícia. Escolhemos
 ### 🔧 Estrutura 
 
 ### Header:
-![image](https://user-images.githubusercontent.com/98292838/163854497-927ede5c-bbdb-41ef-a0dd-233627f284a7.png)
-
-
 No mobile escondemos o menu e acionamos um menu vertical através de um botão tipo "hamburger":
-![image](https://user-images.githubusercontent.com/98292838/163854863-41d2fce5-0520-4335-9d1c-6208c40bcb28.png)
-![image](https://user-images.githubusercontent.com/98292838/163854999-f6ce435c-5765-46d3-a213-dfcc9368cc20.png)
-
-
-### Main: 
-
-Dividimos a Main nas seguintes seções: Home, sobre nós, produtos, seguro de vida, seguro de carro e FAQ.
-Em cada tipo de seguro, trouxemos uma breve descrição e um formulário para solicitação de orçamento.
+<br>
+<br>
+<img src="./img/gif_menu.gif" >
 
 ### Footer:
-Dividimos o footer em 3 seções: Colaboradores, links do site e redes sociais.
-Todos os links externos são funcionais e abrem em uma página em branco.
+No footer usamos o hover para mudar a cor das redes sociais, todos os links externos são funcionais e abrem em uma nova página.
 <br>
 <br>
 <img src="./img/gif_footer.gif" >
