@@ -43,7 +43,7 @@ A proposta foi de criar uma landing page sobre uma empresa fictícia. Escolhemos
 No mobile escondemos o menu e acionamos um menu vertical através de um botão tipo "hamburger":
 <br>
 <br>
-<img src="./img/gif_menu.gif" >
+<img src="./img/gif-hamburguer.gif" >
 
 ### Footer:
 No footer usamos o hover para mudar a cor das redes sociais, todos os links externos são funcionais e abrem em uma nova página.
