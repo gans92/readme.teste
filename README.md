@@ -51,18 +51,18 @@ Dividimos a Main nas seguintes seções: Home, sobre nós, produtos, seguro de v
 Em cada tipo de seguro, trouxemos uma breve descrição e um formulário para solicitação de orçamento.
 
 ### Footer:
-
-
 Dividimos o footer em 3 seções: Colaboradores, links do site e redes sociais.
 Todos os links externos são funcionais e abrem em uma página em branco.
-![image](https://user-images.githubusercontent.com/98292838/163855680-4fd64637-7e49-4d21-b11d-76e58cbf2e95.png)
+<br>
+<br>
+<img src="./img/gif_footer.gif" >
 
 ### Extra: 
 
 Adicionado tema escuro acionado por botão.
 <br>
 <br>
-<img src="./img/ezgif-5-fe287566ef.gif" width="200px" height="380px">
+<img src="./img/ezgif-5-fe287566ef.gif" >
 
 <h1>
     <br>
