@@ -1,17 +1,17 @@
-<h1 align="center">
+<h2 align="center">
     <br>
     <p align="center" style="color: #D30404; font-weight: bold;">🚀 Projeto Landing Page - F4Bank
 <p>
-</h1>
+</h2>
 
-## 🚀 Resumo
+<h3>Resumo </h3>
 
-A proposta foi de criar uma landing page sobre uma empresa fictícia. Escolhemos a F4bank que era um grande banco público brasileiro para competir com as startups que tem surgido, como Nubank, Banco Inter e Banco Neon, reforçando a segurança de um banco tradicional com décadas de história no país. 
+A proposta foi de criar uma landing page sobre uma empresa fictícia. Escolhemos a F4bank que é um projeto de um grande banco público brasileiro para competir com as startups que tem surgido, como Nubank, Banco Inter e Banco Neon, reforçando a segurança de um banco tradicional com décadas de história no país. 
  
-<h1>
+<h2>
     <br>
     <p style="color: #D30404; font-weight: bold;">🎨 Layout</p>
-</h1>
+</h2>
 
 ## Web
 
@@ -21,8 +21,9 @@ A proposta foi de criar uma landing page sobre uma empresa fictícia. Escolhemos
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
      <img src="./img/desk03.png" width="400px" height="180px">
      <img src="/img/desk04.png" width="400px" height="180px">
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
      <img src="/img/desk05.png" width="400px" height="180px">
-
+     <img src="/img/login.png" width="400px" height="180px">
 
 ## Mobile
 
@@ -30,11 +31,13 @@ A proposta foi de criar uma landing page sobre uma empresa fictícia. Escolhemos
      <img src="./img/mobile01.png" width="200px" height="380px">
      <img src="./img/mobile02.png" width="200px" height="380px">
      <img src="./img/mobile03.png" width="200px" height="380px">
-     <img src="./img/mobile04.png" width="200px" height="380px">
+     <img src="./img/mobile004.png" width="200px" height="380px">
+     <img src="./img/login_mobile.png" width="200px" height="380px">
+
 </p>
 </p>
 
-### 🔧 Estrutura 
+## 🔧 Estrutura 
 
 ### Header:
 No mobile escondemos o menu e acionamos um menu vertical através de um botão tipo "hamburger":
@@ -48,17 +51,19 @@ No footer usamos o hover para mudar a cor das redes sociais, todos os links exte
 <br>
 <img src="./img/gif_footer.gif" >
 
-### Extra: 
+## Extras: 
 
-Adicionado tema escuro acionado por botão.
+<h3>Adicionado tema escuro acionado por botão.</h3>
 <br>
+<img src="./img/ezgif-5-fe287566ef.gif">
+<h3>Botão abra sua conta funcional abrindo em uma nova pagina.</h3>
 <br>
-<img src="./img/ezgif-5-fe287566ef.gif" >
+<img src="./img/gif_login.gif">
 
-<h1>
+<h2>
     <br>
     <p style="color: #D30404; font-weight: bold;">🔗 Link do projeto no Surge</p>
-</h1>
+</h2>
 
  http://projetof4bank.surge.sh/
 
@@ -86,10 +91,10 @@ https://trello.com/b/JnhQ4bMz/landing-page
 </p>
 
 
-<h1>
+<h2>
     <br>
     <p style="color: #D30404; font-weight: bold;">📁 Arquitetura</p>
-</h1>
+</h2>
 
 ```
 - 📁 F4Bank
@@ -108,10 +113,10 @@ https://trello.com/b/JnhQ4bMz/landing-page
  |- 📑 login.html
  |- 📑 README.md
 ```
-<h1>
+<h2>
     <br>
-    <p style="color: #D30404; font-weight: bold;">👨‍💻 Participantes</p>
-</h1>
+    <p style="color: #D30404; font-weight: bold;">👨‍💻 Grupo do Projeto</p>
+</h2>
 
 <table>
   <tr>
@@ -119,7 +124,6 @@ https://trello.com/b/JnhQ4bMz/landing-page
     <td align="center"><a href="https://github.com/SantiagoOliveira22"><img style="border-radius: 50%;" src="https://unavatar.io/github/SantiagoOliveira22" width="100px;" alt=""/><br /><sub><b>Santiago Oliveira</b></sub></a><br /></td> 
       <td align="center"><a href="https://github.com/ju-marques"><img style="border-radius: 50%;" src="https://unavatar.io/github/ju-marques" width="100px;" alt=""/><br /><sub><b>Juliana Marques</b></sub></a><br /></td> 
   </tr>
-  
 </table>
 
 <br>
