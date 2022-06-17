@@ -122,7 +122,7 @@ https://trello.com/b/JnhQ4bMz/landing-page
   <tr>
     <td align="center"><a href="https://github.com/gans92"><img style="border-radius: 50%;" src="https://unavatar.io/github/gans92" width="100px;" alt=""/><br /><sub><b>Gabriel Alisson</b></sub></a><br /></td>    
     <td align="center"><a href="https://github.com/SantiagoOliveira22"><img style="border-radius: 50%;" src="https://unavatar.io/github/SantiagoOliveira22" width="100px;" alt=""/><br /><sub><b>Santiago Oliveira</b></sub></a><br /></td> 
-      <td align="center"><a href="https://github.com/ju-marques"><img style="border-radius: 50%;" src="https://unavatar.io/github/ju-marques" width="100px;" alt=""/><br /><sub><b>Juliana Marques</b></sub></a><br /></td> 
+    <td align="center"><a href="https://github.com/ju-marques"><img style="border-radius: 50%;" src="https://unavatar.io/github/ju-marques" width="100px;" alt=""/><br /><sub><b>Julia Marques</b></sub></a><br /></td> 
   </tr>
 </table>
 
